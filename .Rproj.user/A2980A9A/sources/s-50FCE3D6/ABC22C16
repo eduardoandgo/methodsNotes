@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1605077678334.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ABC22C16",
+    "lastKnownWriteTime" : 1605077709,
+    "last_content_update" : 1605077709281,
+    "path" : "~/GitHub/methodsNotes/03-823.Rmd",
+    "project_path" : "03-823.Rmd",
+    "properties" : {
+        "cursorPosition" : "6,16",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

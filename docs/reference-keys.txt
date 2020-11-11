@@ -9,8 +9,4 @@ section-2
 multivariate
 generalized-linear-models
 nonparametric
-methods
-applications
-example-one
-example-two
-final-words
+intro-821
