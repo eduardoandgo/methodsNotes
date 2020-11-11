@@ -10,3 +10,6 @@ multivariate
 generalized-linear-models
 nonparametric
 intro-821
+stat-821
+stat-822
+stat-823

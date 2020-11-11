@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1553579210",
     "id" : "ABC22C16",
-    "lastKnownWriteTime" : 1605077709,
-    "last_content_update" : 1605077709281,
+    "lastKnownWriteTime" : 1605079149,
+    "last_content_update" : 1605079149869,
     "path" : "~/GitHub/methodsNotes/03-823.Rmd",
     "project_path" : "03-823.Rmd",
     "properties" : {
-        "cursorPosition" : "6,16",
+        "cursorPosition" : "0,7",
         "scrollLine" : "0"
     },
     "read_only" : false,

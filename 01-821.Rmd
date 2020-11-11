@@ -1,4 +1,4 @@
-# 821
+# STAT 821 
 
 ## Experimental and Treatment Designs
 
