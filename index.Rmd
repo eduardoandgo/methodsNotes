@@ -1,0 +1,21 @@
+--- 
+title: "Statistical Methods (821, 822, 823) Notes"
+author: "Eduardo Gomez"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+---
+
+# 821
+
+Here we are focusing on the material covered in STAT 821
+
+## Experimental and Treatment Designs
+
+## Matrix Algebra
+
+## Linear Models
